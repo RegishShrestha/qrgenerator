@@ -1,2 +1,2 @@
 # qrgenerator
-generete qrcode using python
+Generete qrcode using python
